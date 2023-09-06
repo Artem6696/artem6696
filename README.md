@@ -10,9 +10,13 @@
 
 ## Мои навыки
 
-| JavaScript      | API             | HTML5       | CSS         |
-| :-------------- | :-------------- | :---------- | :---------- |
-| Redux           | Redux Toolkit   | Bootstrap   | GIT         |
+| JavaScript      | API             | HTML5       | CSS         | JavaScript      | API             | HTML5       | CSS         |
+| :-------------- | :-------------- | :---------- | :---------- | :-------------- | :-------------- | :---------- | :---------- |
+| Redux           | Redux Toolkit   | Bootstrap   | GIT         | Redux           | Redux Toolkit   | Bootstrap   | GIT         |
+
+
+
+
 
 
 
