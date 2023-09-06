@@ -11,7 +11,7 @@
 ## Мои навыки
 
 
- JavaScript      API
+ -JavaScript      -API
  Redux           Redux Toolkit
  RTK Query       SASS
  HTML5           CSS
