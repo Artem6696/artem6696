@@ -11,7 +11,7 @@
 ## Мои навыки
 
 
-- JavaScript              - SASS
+- JavaScript         &nbsp;     - SASS
 - Redux                   - Bootstrap
 - Redux Toolkit
 - RTK Query
