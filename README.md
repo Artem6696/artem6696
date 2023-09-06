@@ -11,18 +11,12 @@
 ## Мои навыки
 
 
-- JavaScript         &nbsp;     - SASS
-- Redux                   - Bootstrap
-- Redux Toolkit
-- RTK Query
-- HTML5
-- CSS
-- SASS
-- Bootstrap
-- GIT
-- API
-- Webpack
-- Vite
+ JavaScript      API
+ Redux           Redux Toolkit
+ RTK Query       SASS
+ HTML5           CSS
+ Bootstrap       GIT
+ Webpack         Vite
 
 
 
